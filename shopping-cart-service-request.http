@@ -1,0 +1,4 @@
+###Добавление сотрудника
+GET http://localhost:8080/store/order/add?id=1,2,3
+###Получение списка сотрудников
+GET http://localhost:8080/store/order/get
